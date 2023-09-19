@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Salade de concombre et tomate",
+    "description": "Une délicieuse salade d'été avec des concombres croquants et des tomates juteuses, assaisonnée d'huile d'olive et de vinaigre balsamique.",
+    "ingredients": "Concombres, tomates, oignons rouges, huile d'olive, vinaigre balsamique, sel, poivre.",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+    "score": 4.7
+  },
+  {
+    "name": "Salade de carottes râpées",
+    "description": "Une salade simple et saine préparée avec des carottes râpées fraîches, du citron et de la coriandre.",
+    "ingredients": "Carottes, jus de citron, huile d'olive, coriandre fraîche, sel, poivre.",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+    "score": 4.5
+  },
+  {
+    "name": "Salade grecque",
+    "description": "Une salade classique de la cuisine grecque avec des tomates, des concombres, des olives, du fromage feta et une vinaigrette à l'huile d'olive.",
+    "ingredients": "Tomates, concombres, olives Kalamata, fromage feta, oignon rouge, huile d'olive, origan, vinaigre de vin rouge, sel, poivre.",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+    "score": 4.8
+  },
+  {
+    "name": "Salade de chou crémeuse",
+    "description": "Une salade de chou croustillante et crémeuse avec une vinaigrette à la mayonnaise et au vinaigre de cidre.",
+    "ingredients": "Chou, carottes, mayonnaise, vinaigre de cidre, sucre, sel, poivre.",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+    "score": 4.6
+  },
+  {
+    "name": "Salade de céleri-rave rémoulade",
+    "description": "Une salade de céleri-rave râpé avec une sauce rémoulade à la moutarde et au yaourt.",
+    "ingredients": "Céleri-rave, moutarde, yaourt grec, vinaigre de vin blanc, câpres, cornichons, ciboulette, sel, poivre.",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+    "score": 4.4
+  },
+  {
+    "name": "Salade d'épinards et de fraises",
+    "description": "Une salade légère et rafraîchissante avec des épinards frais, des fraises sucrées, des noix et une vinaigrette au vinaigre balsamique.",
+    "ingredients": "Épinards, fraises, noix, vinaigre balsamique, huile d'olive, miel, sel, poivre.",
+    "imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+    "score": 4.9
+  }
+]
